@@ -193,7 +193,9 @@ p {
   font-family: "Be Vietnam Pro", sans-serif;
 }
 ul {
-  list-style-type: none;
+  /* list-style-type: none; */
+  position: relative;
+  left: 50px;
 }
 a {
   text-decoration: none;
